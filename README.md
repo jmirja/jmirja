@@ -1,7 +1,12 @@
+<div align="center">
+
 # Hi 👋, I'm Mirja Adnan Hossain
 
 ### Software Engineer | .NET | Angular
 
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=jmirja)
 
 ### 🛠️ Tech Stack
 
@@ -12,7 +17,7 @@
 **Design Patterns:** CQRS, Mediator, Repository, Dependency Injection<br>
 **Testing:** xUnit, Moq, AutoMapper<br>
 **DevOps:** Docker, CI/CD, Nginx<br>
-**Tools:** Git, Jira<br>
+**Tools:** Git, Jira
 
 ### 🌱 Currently Learning
 
@@ -21,4 +26,10 @@
 ### 📫 Connect With Me
 
 **Email:** [shohan.mirja@gmail.com](mailto:shohan.mirja@gmail.com)<br>
-**LinkedIn:** [Your LinkedIn Profile]
+**LinkedIn:** [linkedin.com/in/mirza07](https://www.linkedin.com/in/mirza07)
+
+-----------------------------------------------------------------------------------
+
+### 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jmirja)](https://git.io/streak-stats)

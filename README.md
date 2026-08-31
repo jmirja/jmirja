@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Mirja Adnan Hossain
 
-<!--
-**jmirja/jmirja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | .NET | Angular
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Backend:** C#, .NET, .NET Core, EF Core, REST APIs<br>
+**Frontend:** Angular, TypeScript, HTML5, CSS<br>
+**Database:** Relational Databases<br>
+**Architecture:** Clean Architecture, Microservices, SOLID, OOP<br>
+**Design Patterns:** CQRS, Mediator, Repository, Dependency Injection<br>
+**Testing:** xUnit, Moq, AutoMapper<br>
+**DevOps:** Docker, CI/CD, Nginx<br>
+**Tools:** Git, Jira<br>
+
+### 🌱 Currently Learning
+
+**System Design · Software Architecture · Cloud · AI**
+
+### 📫 Connect With Me
+
+**Email:** [shohan.mirja@gmail.com](mailto:shohan.mirja@gmail.com)<br>
+**LinkedIn:** [Your LinkedIn Profile]

@@ -10,14 +10,14 @@
 
 ### 🛠️ Tech Stack
 
-**Backend:** C#, .NET, .NET Core, EF Core, REST APIs<br>
-**Frontend:** Angular, TypeScript, HTML5, CSS<br>
+**Tools:** Git, Jira
+**DevOps:** Docker, CI/CD, Nginx<br>
 **Database:** Relational Databases<br>
+**Testing:** xUnit, Moq, AutoMapper<br>
+**Frontend:** Angular, TypeScript, HTML5, CSS<br>
+**Backend:** C#, .NET, .NET Core, EF Core, REST APIs<br>
 **Architecture:** Clean Architecture, Microservices, SOLID, OOP<br>
 **Design Patterns:** CQRS, Mediator, Repository, Dependency Injection<br>
-**Testing:** xUnit, Moq, AutoMapper<br>
-**DevOps:** Docker, CI/CD, Nginx<br>
-**Tools:** Git, Jira
 
 ### 🌱 Currently Learning
 

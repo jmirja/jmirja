@@ -10,14 +10,14 @@
 
 ### 🛠️ Tech Stack
 
-**Tools:** Git, Jira
+**Tools:** Git, Jira<br>
 **DevOps:** Docker, CI/CD, Nginx<br>
 **Database:** Relational Databases<br>
 **Testing:** xUnit, Moq, AutoMapper<br>
 **Frontend:** Angular, TypeScript, HTML5, CSS<br>
 **Backend:** C#, .NET, .NET Core, EF Core, REST APIs<br>
 **Architecture:** Clean Architecture, Microservices, SOLID, OOP<br>
-**Design Patterns:** CQRS, Mediator, Repository, Dependency Injection<br>
+**Design Patterns:** CQRS, Mediator, Repository, Dependency Injection
 
 ### 🌱 Currently Learning
 

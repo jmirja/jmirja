@@ -21,7 +21,7 @@
 
 ### 🌱 Currently Learning
 
-**System Design · Software Architecture · Cloud · AI**
+**Forward Deployed Engineering · System Design · Software Architecture · Cloud · AI**
 
 ### 📫 Connect With Me
 
